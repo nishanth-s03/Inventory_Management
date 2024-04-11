@@ -1,2 +1,4 @@
 # inventory_management_system
-> Any help related to php or django or vuejs or nuxtjs or angular or react contact me via whatsapp +919535688928 or gmail puneethreddy951@gmail.com
+An project on inventory management to ease the inventory transactions.
+This is an real time project developed for Saanvi Agencies(Bakery Item Inventory) which is locally hosted.
+
